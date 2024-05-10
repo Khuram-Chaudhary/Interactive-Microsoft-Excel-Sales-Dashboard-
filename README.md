@@ -3,6 +3,9 @@
 ## Overview
 This project showcases a comprehensive sales dashboard tailored for a coffee business. Leveraging advanced Excel skills and a variety of powerful Excel features, the dashboard offers insightful visualizations, enabling quick and informed decision-making based on sales data analysis.
 
+![Dashboard Picture](DashboardPicture)
+
+
 ## Excel Skills Demonstrated
 - **Pivot Tables**: Utilized for dynamic data summarization and analysis, enabling flexible exploration of sales data.
 - **Slicers**: Implemented interactive slicers for filtering data by coffee type, size, and loyalty card status, enhancing user experience and data exploration.
